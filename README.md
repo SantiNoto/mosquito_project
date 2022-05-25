@@ -2,9 +2,9 @@
 find relevant mosquito fst peaks
 
 requeriments:
-  python 3.7.10
-  pandas
-  gseapy
+  -python 3.7.10
+  -pandas
+  -gseapy
 
 The relevant files are:
 
